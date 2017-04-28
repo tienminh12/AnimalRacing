@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
         AnhXa();
 
+        // last test
+
         skOne.setEnabled(false);
         skTwo.setEnabled(false);
         skThree.setEnabled(false);
