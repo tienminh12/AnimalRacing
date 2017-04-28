@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         // cmt 1
         // cmt 2
+        cbOne.setChecked(true);
 
         skOne.setEnabled(false);
         skTwo.setEnabled(false);
