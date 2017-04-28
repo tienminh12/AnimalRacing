@@ -28,9 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         AnhXa();
 
-        // cmt 1
-        // cmt 2
-        cbOne.setChecked(true);
+        // abc
 
         skOne.setEnabled(false);
         skTwo.setEnabled(false);
